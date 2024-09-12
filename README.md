@@ -1,1 +1,3 @@
-# demo-pwa-240912
+# Demo PWA 2024-09-12
+
+Netlify: https://pwa-demo-240912.netlify.app/ 
